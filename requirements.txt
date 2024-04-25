@@ -3,3 +3,10 @@ numpy
 pandas
 pydeck
 streamlit
+sklearn
+pandas
+numpy
+matplotlib
+seaborn
+imbalanced-learn
+joblib
